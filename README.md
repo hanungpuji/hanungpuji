@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hanung Puji
 - 👀 I’m interested in Web Programming especially PHP
-- 🌱 I’m currently learning framework : Laravel
 - 📫 How to reach me ? 
 - 📫 email : hanungpuji@gmail.com, ig : @hanungpuji97
 
